@@ -118,3 +118,5 @@ capital
 captain
 capture
 car
+donkey
+dummy
